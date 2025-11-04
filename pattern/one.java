@@ -1,3 +1,12 @@
+/*
+Question 1. print the pattern
+
+* * * * *
+* * * * *
+* * * * *
+* * * * *
+
+*/
 import java.util.*;
 public class one
 {
@@ -12,4 +21,5 @@ public class one
             System.out.println();
         }
     }
+
 }
