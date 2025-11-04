@@ -1,3 +1,12 @@
+/* 
+Question 2. print the pattern
+
+* * * * *
+*       *
+*       *
+* * * * *
+
+*/
 public class two {
 public static void main(String[] args) 
 {
@@ -15,3 +24,4 @@ public static void main(String[] args)
     
 }
 }
+
