@@ -1,3 +1,12 @@
+/* 
+Question 2. print the pattern
+
+* 
+* *
+* * *
+* * * * 
+
+*/
 import java.util.*;
 public class three  {
     public static void main(String args[])
@@ -13,3 +22,4 @@ public class three  {
     }
     
 }
+
